@@ -1,7 +1,54 @@
 # Python-Parking-System
 
+## Introduction
+A smart vehicle parking system not only helps to look for parking but also saves time.
+It is an integrated form of parking system which can help with organization of vehicle in a more efficient way.
+The main problem with the existing parking system is that it cant tell how many slots are available for the parking in a parking space.
+The Increasing population, leads to a greater number of private vehicles which drastically increases the number of parking space needed. So, a proper parking management system is needed.
+
+## Main Window
+Tkinter is used for creating a Graphical User Interface to how the output of the code with a better form of presentation. This window has 5 Options and 4 options for different operations.
 ![Main Window](https://github.com/sachinl0har/Python-Parking-System/blob/main/Screenshots/main.PNG?raw=true)
 
+## Entry Window
+Whenever a vehicle is added firstly it ask you the vehicle type then it asks you some information like Owners name, vehicle number and vehicle model number then the given details are stored in car.txt or bike.txt and it will give you a secret token code.
+![Entry Window](https://github.com/sachinl0har/Python-Parking-System/blob/main/Screenshots/entry.PNG?raw=true)
+![Entry Window](https://github.com/sachinl0har/Python-Parking-System/blob/main/Screenshots/entry1.PNG?raw=true)
+
+## Show Window
+It is used to checking the vehicles in the parking with an option of car and bike. This can show all the vehicles with their number with owner name and time of parking.
+![Bike Window](https://github.com/sachinl0har/Python-Parking-System/blob/main/Screenshots/bikeshow.PNG?raw=true)
+![Car Window](https://github.com/sachinl0har/Python-Parking-System/blob/main/Screenshots/carshow.PNG?raw=true)
+
+## Search Window
+Search Option is used for searching for a particular vehicle in the parking space with its Token which was provided while parking and an option of car and bike.
+![Bike Window](https://github.com/sachinl0har/Python-Parking-System/blob/main/Screenshots/bikesearch.PNG?raw=true)
+![Car Window](https://github.com/sachinl0har/Python-Parking-System/blob/main/Screenshots/carsearch.PNG?raw=true)
+
+## Remove Window
+Remove is used to remove an entry for a car or bike with the token which was provided while parking.
+![Remove Window](https://github.com/sachinl0har/Python-Parking-System/blob/main/Screenshots/remove.PNG?raw=true)
+
+## About Window
+About window will show you s short description about the Project.
+![About Window](https://github.com/sachinl0har/Python-Parking-System/blob/main/Screenshots/about.PNG?raw=true)
+
+## Optimizations
+1. The graphical user interface needs to be improved.
+2. A datebase should be used to store the data such as SQL or MongoDB.
+3. It needs a Admin Login and Size of slots so that admin can login and set the slots size.
+4. The Show window should be for Admin only as it shows the Secret Token also.
+
+Anyone Have Some Ideas or Advanced code you can Open a new Pull Request.
+
+## Conclusion
+1. This parking system can save time and you can book the parking earlier.
+2. This can be used by every person who has a car or bike, and where there are a huge number of in and out of vehicles like Malls, Companies, Tourist Places you can book your parking earlier.
+3. This new Parking system adds value to the modern day parking system.
+
+# THANK YOU
+
+# LICENSE
 ```md
 MIT License
 
