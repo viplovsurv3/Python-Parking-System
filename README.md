@@ -1,6 +1,6 @@
 # Python-Parking-System
 
-![Main Window](https://github.com/sachinl0har/Python-Parking-System/blob/master/main.jpg?raw=true)
+![Main Window](https://github.com/sachinl0har/Python-Parking-System/blob/main/Screenshots/main.PNG?raw=true)
 
 ```md
 MIT License
