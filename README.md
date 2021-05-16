@@ -55,7 +55,7 @@ Anyone Have Some Ideas or Advanced code you can Open a new Pull Request.
 # THANK YOU
 
 # LICENSE
-```md
+```
 MIT License
 
 Copyright (c) 2021 Sachin Lohar
