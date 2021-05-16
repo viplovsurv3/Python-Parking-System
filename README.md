@@ -8,6 +8,7 @@ The Increasing population, leads to a greater number of private vehicles which d
 
 ## Main Window
 Tkinter is used for creating a Graphical User Interface to how the output of the code with a better form of presentation. This window has 5 Options and 4 options for different operations.
+It has a Basic Program also without GUI.
 
 ![Main Window](https://github.com/sachinl0har/Python-Parking-System/blob/main/Screenshots/main.PNG?raw=true)
 
