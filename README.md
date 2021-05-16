@@ -11,34 +11,48 @@ Tkinter is used for creating a Graphical User Interface to how the output of the
 It has a Basic Program also without GUI.
 
 ![Main Window](https://github.com/sachinl0har/Python-Parking-System/blob/main/Screenshots/main.PNG?raw=true)
+### WITHOUT GUI
+![Main Window](https://github.com/sachinl0har/Python-Parking-System/blob/main/Screenshots/simplemain.PNG?raw=true)
 
 ## Entry Window
 Whenever a vehicle is added firstly it ask you the vehicle type then it asks you some information like Owners name, vehicle number and vehicle model number then the given details are stored in car.txt or bike.txt and it will give you a secret token code.
 
 ![Entry Window](https://github.com/sachinl0har/Python-Parking-System/blob/main/Screenshots/entry.PNG?raw=true)
 ![Entry Window](https://github.com/sachinl0har/Python-Parking-System/blob/main/Screenshots/entry1.PNG?raw=true)
+### WITHOUT GUI
+![Entry Window](https://github.com/sachinl0har/Python-Parking-System/blob/main/Screenshots/simpleentry.PNG?raw=true)
 
 ## Show Window
 It is used to checking the vehicles in the parking with an option of car and bike.This can show all the vehicles with their number with owner name and time of parking.
 
 ![Bike Window](https://github.com/sachinl0har/Python-Parking-System/blob/main/Screenshots/bikeshow.PNG?raw=true)
 ![Car Window](https://github.com/sachinl0har/Python-Parking-System/blob/main/Screenshots/carshow.PNG?raw=true)
+### WITHOUT GUI
+![Show Window](https://github.com/sachinl0har/Python-Parking-System/blob/main/Screenshots/simpleshow.PNG?raw=true)
+![Car Window](https://github.com/sachinl0har/Python-Parking-System/blob/main/Screenshots/simpleshowcar.PNG?raw=true)
 
 ## Search Window
 Search Option is used for searching for a particular vehicle in the parking space with its Token which was provided while parking and an option of car and bike.
 
 ![Bike Window](https://github.com/sachinl0har/Python-Parking-System/blob/main/Screenshots/bikesearch.PNG?raw=true)
 ![Car Window](https://github.com/sachinl0har/Python-Parking-System/blob/main/Screenshots/carsearch.PNG?raw=true)
+### WITHOUT GUI
+![Search Window](https://github.com/sachinl0har/Python-Parking-System/blob/main/Screenshots/simplesearch.PNG?raw=true)
+![Car Window](https://github.com/sachinl0har/Python-Parking-System/blob/main/Screenshots/simplecarsearch.PNG?raw=true)
 
 ## Remove Window
 Remove is used to remove an entry for a car or bike with the token which was provided while parking.
 
 ![Remove Window](https://github.com/sachinl0har/Python-Parking-System/blob/main/Screenshots/remove.PNG?raw=true)
+### WITHOUT GUI
+![Remove Window](https://github.com/sachinl0har/Python-Parking-System/blob/main/Screenshots/simpleremove.PNG?raw=true)
 
 ## About Window
 About window will show you s short description about the Project.
 
 ![About Window](https://github.com/sachinl0har/Python-Parking-System/blob/main/Screenshots/about.PNG?raw=true)
+### WITHOUT GUI
+![About Window](https://github.com/sachinl0har/Python-Parking-System/blob/main/Screenshots/simpleabout.PNG?raw=true)
 
 ## Optimizations
 1. The graphical user interface needs to be improved.
