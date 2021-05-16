@@ -1,7 +1,7 @@
 import datetime
 from os import system
 from colorama import Fore
-from random import randrange
+import random
 
 k = datetime.datetime.now()
 a = str(k.date())
@@ -39,7 +39,7 @@ def Car():
     name = input(Fore.GREEN + "Enter Your Name : \n")
     vehicalNo = input(Fore.GREEN + "Enter Your Car No : \n")
     carModel = input(Fore.GREEN + "Enter Your Car Model : \n")
-    token = randrange(999999)
+    token = random.randint(100000, 999999)
     print("Here is your Secret Token : ")
     print(token)
     yes = input(Fore.GREEN + "Do you want to go on with this details (Y/N)")
@@ -56,7 +56,7 @@ def Bike():
     name = input(Fore.GREEN + "Enter Your Name : \n")
     vehicalNo = input(Fore.GREEN + "Enter Your Bike No : \n")
     bikeModel = input(Fore.GREEN + "Enter Your Bike Model : \n")
-    token = randrange(999999)
+    token = random.randint(100000, 999999)
     print("Here is your Secret Token : ")
     print(token)
     yes = input(Fore.GREEN + "Do you want to go on with this details (Y/N)")
